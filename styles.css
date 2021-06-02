@@ -1,0 +1,35 @@
+.decoration-none{
+  text-decoration: none;
+}
+.h-screen{
+  height: 100vh;
+}
+.sidebar-brand{
+  width: 100%;
+  height: 120px;
+  background-image: url("https://www.apingenieria.com/wp-content/plugins/page-layout-builder/images/bg/geometricBGs43.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sidebar-menu ul li{
+  list-style-type: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.sidebar-menu ul li:hover{
+  list-style-type: none;
+  border-radius: 5px;
+  background-color: skyblue;
+  margin-bottom: 5px;
+  padding: 4px;
+}
+.logo{
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  vertical-align: middle;
+
+}
